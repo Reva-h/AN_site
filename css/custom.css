@@ -75,7 +75,7 @@ h6{
     color:#FFFFFF;
     background-color:#000000;
 }
-.col-lg-4 .mb-5 .pt-3 .overlapped-right-col .rounded .text-center {
-    padding-top: 0px !important
+.pt-3 {
+    padding-top: 0.2rem!important;
 }
 
